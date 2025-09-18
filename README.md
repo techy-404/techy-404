@@ -76,16 +76,8 @@
 </div>
 
 <!-- Featured Projects -->
-## 🚀 Featured Projects
-
-<div align="center">
-<a href="https://github.com/yasirunadeeshaa/REAL-TIME-TICKET-BOOKING-SYSTEM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirunadeeshaa&repo=REAL-TIME-TICKET-BOOKING-SYSTEM&theme=react&hide_border=true" />
-</a>
-<!-- Add more project cards here as needed -->
-</div><br><br>
-<!-- Connect with me section -->
 ## 🌐 Connect with Me
+
 
 <p align="center">
 <p><a target="_blank" href="https://x.com/https://x.com/techy_404" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
