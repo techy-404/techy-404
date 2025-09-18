@@ -40,7 +40,7 @@
 
 ## 🛠️ Technical Skills
 
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
@@ -56,7 +56,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
-<
+
 <br>
 
 <!-- GitHub Stats Section -->
@@ -64,10 +64,10 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=User&theme=tokyonight&show_icons=true&locale=en" alt="User"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=User&theme=tokyonight&hide_border=true" alt="User"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=User&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="User"/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=User" alt="User" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=techy-404&theme=tokyonight&show_icons=true&locale=en" alt="User"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techy-404&theme=tokyonight&hide_border=true" alt="User"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techy-404&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="User"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techy-404" alt="User" /></a>
 </p>
 </div>
 
