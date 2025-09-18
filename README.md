@@ -7,21 +7,6 @@
 
 <h3 align="center">🚀 A passionate frontend developer exploring the full-stack universe.</h3>
 
----
-
-## 💫 About Me  
-
-<img align="right" height="300" width="390" src="aboutme1.png" alt="coding animation" />
-
-- 🌱 Currently learning **Machine Learning**  
-- 👯 Open to collaborating on **open-source projects**  
-- 💬 Ask me about **Java, OOP, React, Spring Boot**  
-- 📫 Reach me at: **a.y.nadeeshaaththanayaka@gmail.com**  
-- 🌐 Portfolio: **[Coming Soon](#)**  
-- ⚡ Fun fact: *My first programming language was Java*  
-
----
-
 ## 🛠️ Tech Stack  
 
 <p align="center">
