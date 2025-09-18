@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm A. Yasiru Nadeesha Aththanayaka . </h1>
-<h3 align="center">A passionate DevOps Engineer from Sri Lanaka</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=User.User" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi%20%F0%9F%91%8B%2C%20I'm" />
+</h1>
+<h3 align="center">🚀 A passionate frontend developer.</h3>
 
 <!-- Profile Views Counter with Badges -->
 <p align="center">
@@ -94,8 +98,12 @@ Software engineer with a focus on full-stack development, specializing in Java, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirunadeeshaa&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" height="220" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirunadeeshaa&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="220" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=User&theme=tokyonight&show_icons=true&locale=en" alt="User"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=User&theme=tokyonight&hide_border=true" alt="User"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=User&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="User"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=User" alt="User" /></a>
+</p>
 </div>
 
 <div align="center">
