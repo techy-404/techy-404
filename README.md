@@ -1,16 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=techy-404.techy-404" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yasiru+Nadeesha!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Techy+404!" />
 </h1>
 <h3 align="center">🚀 A passionate frontend developer.</h3>
 
 <!-- Profile Views Counter with Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasirunadeeshaa&label=Profile%20views&color=0e75b6&style=flat" alt="yasirunadeeshaa" />
-  <img src="https://img.shields.io/github/followers/yasirunadeeshaa?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=yasirunadeeshaa&label=Profile%20views&color=0e75b6&style=flat" alt="techy-404" />
+  <img src="https://img.shields.io/github/followers/techy-404?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-0078D7?style=flat-square" alt="Full Stack Developer"/>
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-107C10?style=flat-square" alt="Location"/>
 </p>
 
 <p align="center" > 
@@ -33,8 +32,6 @@ Software engineer with a focus on full-stack development, specializing in Java, 
 <!--<img align="right" height="240" width="390" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif" alt="coding animation" />-->
 <img align="right" height="340" width="390" src="aboutme1.png" alt="coding animation" />
 
-- 🔭 I'm currently working on health care application :- [HealthNexus](https://health-nexus.netlify.app/)
-
 - 🌱 I'm currently learning **Machine Learning**
 
 - 👯 I'm looking to collaborate on **open-source projects**
@@ -42,8 +39,6 @@ Software engineer with a focus on full-stack development, specializing in Java, 
 - 💬 Ask me about **Java, OOP, React, Spring Boot**
 
 - 📫 How to reach me: **a.y.nadeeshaaththanayaka@gmail.com**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/yasirunadeeshaa?tab=repositories)
 
 - 🌐 Visit my portfolio: [Coming Soon](#)
 
@@ -61,7 +56,6 @@ Software engineer with a focus on full-stack development, specializing in Java, 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
 </p>
