@@ -7,7 +7,7 @@
 
 <!-- Profile Views Counter with Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasirunadeeshaa&label=Profile%20views&color=0e75b6&style=flat" alt="techy-404" />
+  <img src="https://komarev.com/ghpvc/?username=techy-404&label=Profile%20views&color=0e75b6&style=flat" alt="techy-404" />
   <img src="https://img.shields.io/github/followers/techy-404?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-0078D7?style=flat-square" alt="Full Stack Developer"/>
 </p>
@@ -17,9 +17,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=techy-404&margin-w=10&margin-h=15" alt="techy-404" />
   </a>
 </p>
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />drg</a> </p>
 
 <!-- About Me Section -->
 ## 💫 About Me
@@ -46,7 +43,7 @@
 <details open>
 <summary><b>Languages</b></summary>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
@@ -59,12 +56,9 @@
 <details open>
 <summary><b>Frameworks & Libraries</b></summary>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react native" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
 </p>
 </details>
@@ -72,13 +66,11 @@
 <details open>
 <summary><b>Databases & Tools</b></summary>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-  <img src="https://img.shields.io/badge/apache%20kafka-231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
 </p>
 </details>
 <br>
